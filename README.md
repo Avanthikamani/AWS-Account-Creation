@@ -25,19 +25,13 @@ No command-line commands were used. The experiment was performed through the AWS
 
  ## OUTPUT
 
-<img width="1918" height="1027" alt="Screenshot 2026-07-28 160124" src="https://github.com/user-attachments/assets/93d9eda8-ed4e-454e-86de-97ae71b2e7fa" />
+<img width="1918" height="1103" alt="Screenshot 2026-08-04 094126" src="https://github.com/user-attachments/assets/a49a9600-bf93-4bbd-b7fc-5c269d3c2f38" />
 
-<img width="1918" height="1142" alt="Screenshot 2026-07-28 160859" src="https://github.com/user-attachments/assets/0fc32249-b186-4377-9637-949347b5b1bf" />
+<img width="1918" height="1092" alt="Screenshot 2026-08-04 094735" src="https://github.com/user-attachments/assets/b10b0a0e-b9a6-401c-ba93-50e03de3a184" />
 
-<img width="1918" height="1146" alt="Screenshot 2026-07-28 161242" src="https://github.com/user-attachments/assets/d2bb9014-ef20-4587-8ba0-7d6ad60687fa" />
+<img width="1918" height="1086" alt="image" src="https://github.com/user-attachments/assets/8cf5084f-a779-4a8e-8797-4e11abd150fa" />
 
-<img width="1915" height="1138" alt="Screenshot 2026-07-28 161544" src="https://github.com/user-attachments/assets/3a704b73-fe3b-49e7-904e-95ca5e6bc759" />
-
-<img width="1918" height="1146" alt="Screenshot 2026-07-28 161755" src="https://github.com/user-attachments/assets/d5235c70-b112-4164-aff3-135d0afd781c" />
-
-<img width="1917" height="1145" alt="Screenshot 2026-07-28 161953" src="https://github.com/user-attachments/assets/f64e509a-1f4e-4959-8163-fe1e941f38db" />
-
-<img width="1918" height="1137" alt="Screenshot 2026-07-28 162410" src="https://github.com/user-attachments/assets/9cb088ec-cc00-4344-ba62-7af56158a22a" />
+<img width="1918" height="1082" alt="image" src="https://github.com/user-attachments/assets/46ddc566-00a3-42cc-8e72-8fe251c6f667" />
 
 
 ## RESULT
