@@ -20,18 +20,20 @@ Step 5: Log in using the IAM User and verify the assigned permissions.
 No command-line commands were used. The experiment was performed through the AWS Management Console.
 
 
-### REG NUMBER:212224040330
-### NAME:STEFFY AAVLIN RAJ F S
+### REG NUMBER:212224110009
+### NAME:AVANTHIKA.M
 
  ## OUTPUT
 
-<img width="1918" height="1103" alt="Screenshot 2026-08-04 094126" src="https://github.com/user-attachments/assets/a49a9600-bf93-4bbd-b7fc-5c269d3c2f38" />
+<img width="1916" height="1032" alt="Screenshot 2026-10-20 084654" src="https://github.com/user-attachments/assets/ebc81f7e-32db-4641-ace5-c9c6553345cf" />
+<img width="1916" height="992" alt="Screenshot 2026-10-20 084725" src="https://github.com/user-attachments/assets/e5e6a7e3-f505-452d-b99e-13185c01996f" />
+<img width="1916" height="992" alt="Screenshot 2026-10-20 084725" src="https://github.com/user-attachments/assets/876e7359-a9a2-429c-81cf-0b4365dceb63" />
+<img width="1882" height="1026" alt="Screenshot 2026-10-20 085636" src="https://github.com/user-attachments/assets/06c0dbb0-8044-48ff-a3a1-9b54acdea2fe" />
+<img width="1911" height="1032" alt="Screenshot 2026-10-20 091201" src="https://github.com/user-attachments/assets/047a646e-ba18-4c71-85fd-fd45cb2d5d04" />
 
-<img width="1918" height="1092" alt="Screenshot 2026-08-04 094735" src="https://github.com/user-attachments/assets/b10b0a0e-b9a6-401c-ba93-50e03de3a184" />
 
-<img width="1918" height="1086" alt="image" src="https://github.com/user-attachments/assets/8cf5084f-a779-4a8e-8797-4e11abd150fa" />
 
-<img width="1918" height="1082" alt="image" src="https://github.com/user-attachments/assets/46ddc566-00a3-42cc-8e72-8fe251c6f667" />
+
 
 
 ## RESULT
